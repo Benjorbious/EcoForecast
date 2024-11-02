@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+* {
+    background-color: rgba(24,64,57,255);
+    margin: 0;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+}
+
+/* Style the navigation bar */
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    padding-inline: 50%;
+    justify-content: center;
+    display: flex;
+    align-items: center; /* Align items vertically */
+    padding: 0 10px;
+  }
+
+  /* Logo styling */
+  .navbar img.logo {
+    height: 75px; /* Adjust height as needed */
+    width: auto;
+    margin-right: 20px; /* Space between logo and links */
+    background-color: #333;
+
+  }
+
+  /* Style the navigation links */
+  .navbar a {
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  /* Hover effect */
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  /* Active/current link */
+  .navbar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  .navItems {
+    background-color: #333;
+  }
+.GraphImg {
+    margin-top: 2%;
+    height: 75vh;
+    margin-bottom: 12.5vh;
+}
+
+#topGraphName {
+    margin-top: 3%;
+    font-size: 30px;
+    color: white;
+}
+.GraphNames {
+    margin-top: 12.5vh;
+    font-size: 30px;
+    color: white;
+}
+h2 {
+    color: white;
+}
+#percentage {
+    color: greenyellow;
+}
+#negPercentage {
+    color: red;
+}

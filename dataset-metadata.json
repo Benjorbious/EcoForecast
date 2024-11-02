@@ -1,0 +1,43 @@
+{
+  "id": "belayethossainds/renewable-energy-world-wide-19652022",
+  "id_no": 2960641,
+  "datasetSlugNullable": "renewable-energy-world-wide-19652022",
+  "ownerUserNullable": "belayethossainds",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Renewable Energy World Wide : 1965~2022",
+  "subtitleNullable": "Global Hydropower, Wind, Solar, Biofuel & Geothermal Renewable Energy Dataset.",
+  "descriptionNullable": "<img src=\"https://www.shutterstock.com/image-vector/eco-friendly-green-energy-silhouette-260nw-2067229451.jpg\" alt=\"639,969 Alternative Energy Images, Stock Photos & Vectors | Shutterstock\">\n\n### [ Total 17 file , 74 columns, World  Wide, 57 Years data ]\n#### The Renewable Energy World Wide dataset is a comprehensive collection of global renewable energy data from 1965 to 2022. The dataset includes information on hydropower, wind, solar, biofuel, and geothermal energy production from around the world.\n\nSince the Industrial Revolution, the energy mix of most countries across the world has become dominated by fossil fuels. This has major implications for the global climate, as well as for human health. \nTo reduce CO2 emissions and local air pollution, the world needs to rapidly shift towards low-carbon sources of energy \u2013 nuclear and renewable technologies.\n`Renewable energy will play a key role in the decarbonization of our energy systems in the coming decades. But how rapidly is our production of renewable energy changing? What technologies look most promising in transforming our energy mix?`\n\n## Data vastness of this dataset:\n01.  renewable-share-energy data.\n02.  modern-renewable-energy-consumption.\n03.  modern-renewable-prod\n04. share-electricity-renewables\n05. hydropower-consumption\n06. hydro-share-energy\n07. share-electricity-hydro\n08. wind-generation\n09. cumulative-installed-wind-energy-capacity-gigawatts\n10. wind-share-energy\n11. share-electricity-wind\n12. solar-energy-consumption\n13. installed-solar-PV-capacity\n14. solar-share-energy\n15. share-electricity-solar\n16. biofuel-production\n17. installed-geothermal-capacity",
+  "datasetId": 2960641,
+  "datasetSlug": "renewable-energy-world-wide-19652022",
+  "hasDatasetSlug": true,
+  "ownerUser": "belayethossainds",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 29774,
+  "totalVotes": 60,
+  "totalDownloads": 6677,
+  "title": "Renewable Energy World Wide : 1965~2022",
+  "hasTitle": true,
+  "subtitle": "Global Hydropower, Wind, Solar, Biofuel & Geothermal Renewable Energy Dataset.",
+  "hasSubtitle": true,
+  "description": "<img src=\"https://www.shutterstock.com/image-vector/eco-friendly-green-energy-silhouette-260nw-2067229451.jpg\" alt=\"639,969 Alternative Energy Images, Stock Photos & Vectors | Shutterstock\">\n\n### [ Total 17 file , 74 columns, World  Wide, 57 Years data ]\n#### The Renewable Energy World Wide dataset is a comprehensive collection of global renewable energy data from 1965 to 2022. The dataset includes information on hydropower, wind, solar, biofuel, and geothermal energy production from around the world.\n\nSince the Industrial Revolution, the energy mix of most countries across the world has become dominated by fossil fuels. This has major implications for the global climate, as well as for human health. \nTo reduce CO2 emissions and local air pollution, the world needs to rapidly shift towards low-carbon sources of energy \u2013 nuclear and renewable technologies.\n`Renewable energy will play a key role in the decarbonization of our energy systems in the coming decades. But how rapidly is our production of renewable energy changing? What technologies look most promising in transforming our energy mix?`\n\n## Data vastness of this dataset:\n01.  renewable-share-energy data.\n02.  modern-renewable-energy-consumption.\n03.  modern-renewable-prod\n04. share-electricity-renewables\n05. hydropower-consumption\n06. hydro-share-energy\n07. share-electricity-hydro\n08. wind-generation\n09. cumulative-installed-wind-energy-capacity-gigawatts\n10. wind-share-energy\n11. share-electricity-wind\n12. solar-energy-consumption\n13. installed-solar-PV-capacity\n14. solar-share-energy\n15. share-electricity-solar\n16. biofuel-production\n17. installed-geothermal-capacity",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "renewable energy",
+    "intermediate",
+    "data visualization",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
